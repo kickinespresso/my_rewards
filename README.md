@@ -1,5 +1,7 @@
 # my_rewards
 
+v1.1.18 - Windows Trial
+
 v1.1.14 - Release of testing
 
 v1.1.13 - trying new option in logging
